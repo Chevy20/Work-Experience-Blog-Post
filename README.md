@@ -28,7 +28,7 @@ so I deceded to take on some more projects.
 ### Web Based Dashboards
 I also implemented web based dashboards using the Siemens Information Server Platform. This platform allows developers to archive any information coming from the 
 PLCs into a large SQL database. From this database, information can be pulled to create web based dashboards that allow management to look at historical trends
-of production data as well as production data in real time. Images can be seen below <br>
+of production data as well as production data in real time.
 
 ### Auto Generated Reporting
 In addition to the Scada System and the Dashboards, I was asked to create reports using the Siemens Information Server. Siemens has developed a plugin for 

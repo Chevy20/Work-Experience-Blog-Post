@@ -14,7 +14,7 @@ Seeing the potential in the project, I fufiled managements request as well as ad
 electrical errors. Baycoat has two production lines, so I decided to create a seperate scada system for each production line. The scada systems were
 developed with Visual Basic Script. Note: I cannot share soruce code of the systems but I am allowed to share images of the Scada systems. <br>
 Line 3: <br>
-/L3.png <br>
+/L3.PNG <br>
 Line 4: <br>
 Insert image link here <br>
 

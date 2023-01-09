@@ -56,7 +56,7 @@ projects in large scope and meet my deadlines. I had guidance from electricians 
 forced me to use my time wisely and efficently. In addition to time management skills, I also had the oppritunity to participate in meetings with company executives 
 such as the President of Baycoat and management. These presentations included PowerPoint shows, live demos and discussions about project budget. These
 presentations helped grow my confidence and have prepared me for similar meetings in the future. 
-# Conclusion
+## Conclusion
 All in all, this experence has been the best work experience I have had so far. It has made me excited to work software because going to work everyday did not 
 feel like a chore. I was excited to come into work which really helped my productivity and fueled my passion for the software industry. I have learned so many 
 useful technical and business skills through this experience. I am very grateful for this oppritunity. <br>

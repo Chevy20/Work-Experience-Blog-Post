@@ -20,6 +20,8 @@ Line 4: <br>
 
 These are Siemens WinCC Flexible Runtimes designed for Siemens HMI screens. I will get into the delivery of the project in detail later. Here are some images 
 of the development environment. <br>
+![Development Environment](/TiaPortal1.PNG)
+![Development Environment](/TiaPortal2.PNG)
 
 The timeline for this project was from May 2022 to the end of August 2022. I had finished the bulk of the development for the Scada systems by the End of june 
 so I deceded to take on some more projects. 

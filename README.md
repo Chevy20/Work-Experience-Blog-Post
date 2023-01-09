@@ -35,7 +35,13 @@ In addition to the SCADA System and the Dashboards, I was asked to create report
 Microsoft Excel that allows users to select data to import from the Information server, which was used to pull in data in various time ranges. These excel reports 
 are auto-generated every 12-hour shift, daily, weekly, and monthly. For the weekly and monthly reports, the number of data points was often in the hundreds of thousands 
 of entries. Company executives are using these reports to track production data so they can optimize their costs. I cannot post any excel files because they contain sensitive
-data, but I can share some screenshots.
+data, but I can share some screenshots. <br>
+Weekly Production Data Report
+![Report](/L4CoatW.PNG)
+Weekly Downtime Report
+![Report](/L4DownW.PNG)
+Data in Raw form
+![Report](/L4Data.PNG)
 
 ## What I learned
 I am very thankful to Baycoat for giving me this opportunity as I have learned so much through this process. Not only have I sharpened my technical skills, but I have 

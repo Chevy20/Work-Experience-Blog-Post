@@ -37,7 +37,7 @@ are auto-generated every 12-hour shift, daily, weekly, and monthly. For the week
 of entries. Company executives are using these reports to track production data so they can optimize their costs. I cannot post any excel files because they contain sensitive
 data, but I can share some screenshots. <br>
 Weekly Production Data Report <br>
-![Report](/L4CoatW .PNG) <br>
+![Report](/L4CoatW-PNG) <br>
 Weekly Downtime Report <br>
 ![Report](/L4DownW.PNG) <br>
 Data in Raw form <br>
